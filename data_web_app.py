@@ -7,8 +7,8 @@ import seaborn as sns
 import numpy as np
 
 # 1. Title and Subheader
-st.title("Data Analysis")
-st.subheader("Data Analysis Using Python & Streamlit")
+st.title("Data Analysis Web Application")
+st.subheader("Perform preliminary data analysis in a few minutes")
 
 # 2. Upload Dataset
 upload = st.file_uploader("Upload Your Dataset (in CSV format)")
